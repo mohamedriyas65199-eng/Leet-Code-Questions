@@ -81,4 +81,16 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0912-sort-an-array) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
