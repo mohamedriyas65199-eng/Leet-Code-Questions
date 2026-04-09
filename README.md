@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0043-multiply-strings) |
 | [0709-to-lower-case](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0917-reverse-only-letters) |
 | [1143-longest-common-subsequence](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/1143-longest-common-subsequence) |
@@ -24,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0043-multiply-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Sorting
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
