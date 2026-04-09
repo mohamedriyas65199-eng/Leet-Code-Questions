@@ -13,6 +13,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -23,15 +24,18 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -43,6 +47,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -57,4 +62,16 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0704-binary-search) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
