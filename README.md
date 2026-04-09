@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0709-to-lower-case) |
+| [2000-reverse-prefix-of-word](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/2000-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
