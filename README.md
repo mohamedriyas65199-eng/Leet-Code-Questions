@@ -6,6 +6,7 @@
 | ------- |
 | [0709-to-lower-case](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0917-reverse-only-letters) |
+| [1143-longest-common-subsequence](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/1143-longest-common-subsequence) |
 | [2000-reverse-prefix-of-word](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
