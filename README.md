@@ -101,4 +101,8 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [1143-longest-common-subsequence](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/1143-longest-common-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
