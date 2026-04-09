@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0043-multiply-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
