@@ -111,9 +111,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0043-multiply-strings) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
