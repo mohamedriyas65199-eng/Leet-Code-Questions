@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0035-search-insert-position) |
 | [0198-house-robber](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -53,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
