@@ -11,6 +11,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0035-search-insert-position) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0912-sort-an-array) |
@@ -52,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/0283-move-zeroes) |
 | [2000-reverse-prefix-of-word](https://github.com/mohamedriyas65199-eng/Leet-Code-Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
